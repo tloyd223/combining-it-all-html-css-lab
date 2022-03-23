@@ -12,14 +12,8 @@ Over the past several lessons of this unit, you've learned so much about HTML an
   * An "About" page with an image gallery
 3. Each page includes designs for both desktop and mobile. Your site should be responsive and automatically adjust based on the size of the device. (Use 768px as the breakpoint size).
 
-## Best Practices
-
-Since you'll be working with a partner, communication and team building will be just as important as the technical aspects of the project. To get the most out of the project, have a quick kickoff, either via Slack or Zoom, to split out the remaining work. Decide on the color scheme you want to use, and chunk out the remaining work. One way you might split it up:
+## Features
   * Responsive Navbar
   * Responsive Landing page
   * Response Image Gallery Page
   * Customization and Tweaking
-
-At the same time, see if there are any points where you can come together to review and pair program, even if it's just for 30 minutes or an hour. A little bit of pairing can go a long way towards building camaraderie.
-
-Finally, do your best to over-communicate! Let your partner know what's going on and what you're working on. Remember that they may have a different schedule from you, and that's ok. You'll still go farther together than you will alone!
