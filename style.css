@@ -2,6 +2,26 @@ ul{
     list-style-type: none;
     display: flex;
     align-items: center;
-    justify-content:space-around;
+    justify-content:space-between;
 }
 
+header{
+    background-color: grey;
+}
+
+h3{
+    margin-right:900px;
+}
+
+body{
+    text-align:center;
+}
+
+h2{
+    margin-top: 100px;
+}
+
+img{
+    height:400px;
+    width: 700px;
+}
