@@ -1,3 +1,7 @@
+*{
+    margin:0px;
+    padding:0px;
+}
 ul{
     list-style-type: none;
     display: flex;
@@ -7,6 +11,10 @@ ul{
 
 header{
     background-color: grey;
+}
+
+nav{
+    position: sticky;
 }
 
 h3{
@@ -24,4 +32,20 @@ h2{
 img{
     height:400px;
     width: 700px;
+}
+
+@media all and (max-width:768px){
+    img{
+        height:400px;
+        width: 400px;
+    }
+    
+    body{
+        background-color: palegoldenrod;
+    }
+    
+    nav{
+        display: flex;
+        justify-content: start;
+    }
 }
